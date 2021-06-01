@@ -9,3 +9,4 @@ Hodnocení:
 - izg_lab_03: 3 body
 - izg_lab_04: 3 body
 - izg_lab_05: 3 body
+- izg_lab_O6: 2,7 bodů
